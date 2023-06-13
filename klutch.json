@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "visibility": "PUBLIC",
+    "iconFile": "./images/icon.png",
+    "screenshotsPath": "./images/screenshots",
+    "templatesPath": "./templates",
+    "buildPath": "./dist",
+    "publicKeyFile": "./ExportAll.pem",
+    "minimumKlutchVersion": "1.0.0",
+    "projectName": "ExportAll",
+    "name": "Export All",
+    "description": "Export all data to Google Sheets",
+    "longDescription": "This will allow you to export all data to Google sheets not just a subset.",
+    "serverUrl": "http://www.example.com"
+}

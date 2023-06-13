@@ -1,0 +1,8 @@
+Template = (data, context) => {
+  const K = Klutch;
+  return /*#__PURE__*/React.createElement(K.KView, {
+    style: {
+      flex: 1
+    }
+  }, /*#__PURE__*/React.createElement(K.KBigTextInput, null, "Coolest Panel Ever"));
+};
